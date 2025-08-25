@@ -29,6 +29,8 @@
   <img src="./screenshot1.png" width="250" />
   <img src="./screenshot2.png" width="250" />
   <img src="./screenshot3.png" width="250" />
+  <img src="./screenshot4.png" width="250" />
+  <img src="./screenshot5.png" width="250" />
 </p>
 
 ---
@@ -36,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Hami's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=F20RSEEN1M01023H&show_icons=true&theme=tokyonight" alt="Hami's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F20RSEEN1M01023H&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -45,7 +47,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F20RSEEN1M01023H&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -53,7 +55,7 @@
 ## 👀 Visitors Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=F20RSEEN1M01023H&label=Profile+Views&color=blue&style=flat" alt="Profile Views Counter" />
 </p>
 
 ---
@@ -70,7 +72,7 @@
 - 🎓 Graduated in **Software Engineering**
 - 💻 Building projects daily to sharpen my **React & Web Development** skills
 - 🌍 Open to collaborations on **React projects**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **hammadchoudharyy@gmail.com**
 
 ---
 
