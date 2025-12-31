@@ -23,24 +23,24 @@
 
 ---
 
-<!-- ## 📸 My Work Showcase
+## 📸 My Work Showcase
 
 <p align="center">
-  <img src="./screenshot6.png" width="450" />
+  <img src="./screencapture-localhost-5173-2025-11-17-15_26_14.png" width="450" />
   <img src="./screenshot1.png" width="450" />
   <img src="./screenshot2.png" width="450" />
 </p>
 <p align="center">
-
+  
   <img src="./screenshot3.png" width="450" />
-  <img src="./screenshot4.png" width="450" />
+  <img src="./screencapture-localhost-5173-2025-11-23-18_46_55.png" width="450" />
 </p>
 <p align="center">
-  <img src="./screenshot5.png" width="450" />
+  <img src="./screenshot6.png" width="450" />
 </p>
 
---- -->
-<!--
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F20RSEEN1M01023H&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
---- -->
+---
 
 ## 📈 Contribution Graph
 
@@ -66,13 +66,12 @@
 
 ---
 
-<!--
 ## 🌱 Currently Learning
 
 - Full-Stack Development (Node.js, Express.js, MongoDB)
 - Advanced React & Performance Optimization
 
---- -->
+---
 
 ## 👨‍💻 About Me
 
